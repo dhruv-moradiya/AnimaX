@@ -1,0 +1,11 @@
+.charPhotos{
+    width: 100%;
+    overflow: hidden !important;
+    text-decoration: none !important;
+    /* border: 2px solid gold; */
+}
+
+.slider{
+    width: 100%;
+    padding-left: 46px;
+}

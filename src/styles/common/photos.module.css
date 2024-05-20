@@ -1,0 +1,28 @@
+.charecterInfo{
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.charecterInfo .charPhoto{
+    /* background-color: antiquewhite; */
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.charPhoto img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.charecterInfo p{
+    display: block;
+    text-align: center;
+    font-size: 14px;
+    text-decoration: none !important;
+}
